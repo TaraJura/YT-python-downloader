@@ -1,8 +1,11 @@
 # YT-python-downloader
 download video from YT
 
-you need python3
+# Requirements
 
+```
+  python3
+```
 how to run it:
 
 ```
