@@ -6,7 +6,7 @@ download video from YT
 ```
   python3
 ```
-#how to run it:
+# how to run it:
 
 ```
   python3 yt.py
